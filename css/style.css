@@ -44,3 +44,6 @@ body{
 	text-align: center;
 	padding-top: 14px;
 }
+iframe{
+	width: 100%;
+}
